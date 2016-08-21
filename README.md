@@ -5,26 +5,27 @@
 
 ## Overview :
 
-This project upgrades your bike’s light and take it to the next level such that the backlight of the bike notify other riders with your riding turning direction automatically.
+Imagine you can brew your coffee, open the curtains, turn on the bathroom light, and play your favorite music every morning without having to move your finger. 
+
+Well it’s no longer a dream. It could be your next DIY project! Keeping on with the series of IOT and smart devices, I present one of the most interesting projects I have worked on for a while ‘ Smart clock’.
+
+Basically we will build a digital clock from zero with much interesting functionalities to be done with the alarm buzz.
+
+In this tutorial, I will start with a simple functionality like setting your alarm from your phone and there will be more added functionalities in the next articles.
 
 ## Description :
 
-Blinking towards the direction of turning in green ( e.g. Turning to the Left or the Right ) 
-Turns to red color incase of riding in forward direction.
+A Screen that can show current date and time.
+Setting Alarm  from your Blynk app
+
 
 ## Components used :
 
-* Arduino Microcontroller (e.g. UNO or Nano )
+1 x Particle Photon
+1x 2x16 LCD screen
+1 x Buzzer
 
-* Accelerometer ( e.g. Sparkfun MMA845Q )
-
-* Adafruit Neopixel stick ( or you can build one on your own using ws2812b LEDs ) 
-
-* Resistors ( e.g 330 ohm )
 
 ##
 
 
-  Schematics and documentation are down in the link below 
-
-  http://www.deviceplus.com/how-tos/arduino-guide/smart-arduino-bike-lighting-system/
