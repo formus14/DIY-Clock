@@ -1,6 +1,6 @@
 
 ![alt text][logo]
-[logo]: http://deviceplus.ranjitmohanty.com/wp-content/uploads/2016/05/arduino-bike1-1.png "Logo Title Text 2"
+[logo]: https://www.dropbox.com/s/xkvnxs9bs9sq7up/2016-08-20%2007.19.14%201.jpg?dl=0 "Logo Title Text 2"
 
 
 ## Overview :
