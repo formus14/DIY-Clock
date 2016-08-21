@@ -1,6 +1,6 @@
 
 ![alt text][logo]
-[logo]: https://www.dropbox.com/s/xkvnxs9bs9sq7up/2016-08-20%2007.19.14%201.jpg?dl=0 "Logo Title Text 2"
+[logo]: https://s3.postimg.org/hzyq9bfk3/2016_08_20_07_19_14_1.jpg "Logo Title Text 2"
 
 
 ## Overview :
